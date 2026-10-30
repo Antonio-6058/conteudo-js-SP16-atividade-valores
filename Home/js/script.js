@@ -1,4 +1,3 @@
-
 // Variáveis tipo string
 
 const nome1 = "Anastácio";
@@ -27,7 +26,7 @@ const anoNascimento10 = 1980;
 
 // Exibindo valores de string
 
-console.log("")
+console.log("");
 console.log("--- Variáveis do tipo string ---");
 console.log("Nome:", nome1);
 console.log("Nome:", nome2);
@@ -42,7 +41,7 @@ console.log("Nome:", nome10);
 
 // Exibindo valores de number
 
-console.log("")
+console.log("");
 console.log("--- Variáveis do tipo number ---");
 console.log("Ano de Nascimento:", anoNascimento1);
 console.log("Ano de Nascimento:", anoNascimento2);
